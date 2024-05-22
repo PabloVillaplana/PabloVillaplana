@@ -1,15 +1,8 @@
-### Hi there 👋, my name is Juan Pablo Villaplana
-
-## Software Engineer | Technology enthusiast 👨🏽‍💻
-
-I have been a professional engineer since 2019, I have currently been working in the company that gave me my first opportunity for growth in the wonderful world of code for 6 years.
-
-I currently work as a Tech Lead Engineer at Bamboo Code, where we interact with multiple types of companies with all types of projects.
-
-
-## Contacto:
-
-Building ....
-
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHh3aXhpN2NnZHF3NGhiZzJpb3BrNjlkeW05aG9qbWw2ZzIyYjZvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif" />
+  <h1>
+    Juan Pablo Villaplana | Software Engineer 🚀
+  </h1>
+</div>
 
 
